@@ -19,7 +19,7 @@ Here you will find some of my recent projects of data analysis made with librari
  file -> [Python/data_analysis_visualizations/penguins.ipynb](Python/data_analysis_visualizations/penguins.ipynb)
  ## Titanic 
  This is one of the default datasets which you can use with seaborn library 
- file -> []()
+ file -> [Python/data_analysis_visualizations/titanic.ipynb](Python/data_analysis_visualizations/titanic.ipynb)
  
 
  
