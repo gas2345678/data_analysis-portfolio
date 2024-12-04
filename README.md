@@ -12,6 +12,12 @@ Here you will find some of my recent projects of data analysis made with librari
 
  [https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
 
+ ## Penguins
+ This is one the default datasets which you can use with seaborn library 
+
+ 
+  
+
  
 
 
