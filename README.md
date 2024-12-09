@@ -6,7 +6,8 @@ Here you will find some of my recent projects of data analysis made with librari
 
 
 
- # Data and Visualizations 
+ # Data and Visualizations
+ ## Python 
  ## Mobile user behavior
  This dataset shows information about mobile users characteristics like age, time on screen, operating system etc.
  
@@ -30,6 +31,11 @@ file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysi
 kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
 
  
+## SQL
+
+## videogames_analysis
+This is a videogames dataset which contains data like scores, genres, users etc
+
 
  
   
