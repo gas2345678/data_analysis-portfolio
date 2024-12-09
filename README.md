@@ -24,7 +24,9 @@ Here you will find some of my recent projects of data analysis made with librari
  file -> [Python/data_analysis_visualizations/titanic.ipynb](Python/data_analysis_visualizations/titanic.ipynb)
  ## Muhammad Ali career
 This is a analysis of the famous boxer Muhammad Ali exploring features like count of winnings, their opponents, Date of fights etc.
+
 file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysis_visualizations/muhammad.ipynb)
+
 kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
 
  
