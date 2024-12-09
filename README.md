@@ -33,8 +33,10 @@ kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-
  
 ## SQL
 
-## videogames_analysis
+## metacritic-videogames_critics
 This is a videogames dataset which contains data like scores, genres, users etc
+file -> [SQL/videogames_analysis.sql](SQL/videogames_analysis.sql)
+kaggle website -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
 
  
