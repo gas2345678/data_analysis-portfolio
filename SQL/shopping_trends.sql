@@ -25,14 +25,13 @@ HAVING Discount_Applied == "Yes"
 --Selecting count of items purchased with discount applied ordered in descending way.
 
 
-
---Selecting clothes categories with discount applied and 
-
+--
 
 
 
+--
 
-
+--
 
 
 
