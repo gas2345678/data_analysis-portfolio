@@ -17,6 +17,10 @@ GROUP BY Category
 HAVING Discount_Applied == "Yes"
 --Selecting money payed by customers grouped by product category with transaction made with credit card.
 
+SELECT SUM(Purchase_Amount_USD) FROM shopping_trends 
+GROUP BY Category 
+HAVING Payment_Method == "Credit Card"
+
 
 
 
