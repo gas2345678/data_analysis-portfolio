@@ -40,6 +40,13 @@ file -> [SQL/videogames_analysis.sql](SQL/videogames_analysis.sql)
 
 kaggle website -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
+## Shopping_trends 
+
+This is a analysis of differents categories of products and their characteristics like Season, discount applied, total of purchases etc
+
+file -> [SQL/shopping_trends.sql](SQL/shopping_trends.sql)
+kaggle website -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
+
 
  
   
