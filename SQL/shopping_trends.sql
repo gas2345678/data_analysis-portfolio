@@ -16,6 +16,11 @@ SELECT Item_Purchased,Category,Purchase_Amount_USD FROM shopping_trends
 WHERE Age BETWEEN 30 AND 50
 GROUP BY Category 
 HAVING Discount_Applied == "Yes"
+--Selecting money payed by customers grouped by product category with transaction made with credit card.
+
+SELECT SUM(Purchase_Amount_USD) as Total_Amount FROM shopping_trends 
+GROUP BY Category 
+HAVING Payment_Method == "Credit Card"
 
 --Selecting count of "young" customers and the total of money amount they payed grouped by category and ordered by amount
 SELECT COUNT(Age) as young_customers,SUM(Purchase_Amount_USD) as total_purchase from shopping_trends  WHERE Age < 35 AND Age >= 20
@@ -38,6 +43,19 @@ CASE
 
 
 
+
+
+--Selecting count of items purchased with discount applied ordered in descending way.
+SELECT COUNT(Item_Purchased) as Total_Items WHERE Discount_Apllied == "Yes"
+
+
+--
+
+
+
+--
+
+--
 
 
 
