@@ -15,6 +15,20 @@ SELECT Item_Purchased,Category,Purchase_Amount_USD FROM shopping_trends
 WHERE Age BETWEEN 30 AND 50
 GROUP BY Category 
 HAVING Discount_Applied == "Yes"
+--Selecting money payed by customers grouped by product category with transaction made with credit card.
+
+
+
+
+
+
+--Selecting count of items purchased with discount applied ordered in descending way.
+
+
+
+--Selecting clothes categories with discount applied and 
+
+
 
 
 
