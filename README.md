@@ -29,6 +29,10 @@ This is a analysis of the famous boxer Muhammad Ali exploring features like coun
 file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysis_visualizations/muhammad.ipynb)
 
 kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
+## London houses 
+This is a analysis of different properties located in London 
+file -> []
+kaggle website -> [https://www.kaggle.com/datasets/oktayrdeki/houses-in-london](https://www.kaggle.com/datasets/oktayrdeki/houses-in-london)
 
  
 ## SQL
