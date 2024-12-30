@@ -31,7 +31,7 @@ file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysi
 kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
 ## London houses 
 This is a analysis of different properties located in London 
-file -> []
+file -> [Python/data_analysis_visualizations/london_houses.ipynb](Python/data_analysis_visualizations/london_houses.ipynb)
 kaggle website -> [https://www.kaggle.com/datasets/oktayrdeki/houses-in-london](https://www.kaggle.com/datasets/oktayrdeki/houses-in-london)
 
  
