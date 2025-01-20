@@ -19,21 +19,21 @@ Plotly to bring a better customization to certain parameters.
  kaggle website -> [https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
 
  ## Penguins
- This is one the default datasets which you can use with seaborn library 
+  
  
  file -> [Python/data_analysis_visualizations/penguins.ipynb](Python/data_analysis_visualizations/penguins.ipynb)
  ## Titanic 
- This is one of the default datasets which you can use with seaborn library 
+  
  
  file -> [Python/data_analysis_visualizations/titanic.ipynb](Python/data_analysis_visualizations/titanic.ipynb)
  ## Muhammad Ali career
-This is a analysis of the famous boxer Muhammad Ali exploring features like count of winnings, their opponents, Date of fights etc.
+
 
 file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysis_visualizations/muhammad.ipynb)
 
 kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
 ## London houses 
-This is a analysis of different properties located in London 
+
 file -> [Python/data_analysis_visualizations/london_houses.ipynb](Python/data_analysis_visualizations/london_houses.ipynb)
 kaggle website -> [https://www.kaggle.com/datasets/oktayrdeki/houses-in-london](https://www.kaggle.com/datasets/oktayrdeki/houses-in-london)
 
@@ -41,7 +41,7 @@ kaggle website -> [https://www.kaggle.com/datasets/oktayrdeki/houses-in-london](
 ## SQL
 
 ## metacritic-videogames_critics
-This is a videogames dataset which contains data like scores, genres, users etc
+
 
 file -> [SQL/videogames_analysis.sql](SQL/videogames_analysis.sql)
 
@@ -49,21 +49,21 @@ kaggle website -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames
 
 ## Shopping_trends 
 
-This is a analysis of differents categories of products and their characteristics like Season, discount applied, total of purchases etc
+
 
 file -> [SQL/shopping_trends.sql](SQL/shopping_trends.sql)
 
 kaggle website -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
 
 # Machine Learning 
-This section contains all projects related to machine learning.
+
 The algoritms presented are:
 ### Clustering 
 ### Decision Tree
 ### Linear Regression 
 
 ## Sleep time prediction 
-This project presents a linear regression to predict the neccessary time to sleep based on certain parameters provided by us.
+
 
 
 
