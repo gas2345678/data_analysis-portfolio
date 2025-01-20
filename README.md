@@ -16,7 +16,7 @@ Plotly to bring a better customization to certain parameters.
  
  file -> [Python/data_analysis_visualizations/mobile_users-behaviours.ipynb](Python/data_analysis_visualizations/mobile_users-behaviours.ipynb)
 
- kaggle website -> [https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
+ source -> [https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
 
  ## Penguins
   
@@ -31,7 +31,7 @@ Plotly to bring a better customization to certain parameters.
 
 file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysis_visualizations/muhammad.ipynb)
 
-kaggle website -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
+source -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
 ## London houses 
 
 file -> [Python/data_analysis_visualizations/london_houses.ipynb](Python/data_analysis_visualizations/london_houses.ipynb)
@@ -45,7 +45,7 @@ kaggle website -> [https://www.kaggle.com/datasets/oktayrdeki/houses-in-london](
 
 file -> [SQL/videogames_analysis.sql](SQL/videogames_analysis.sql)
 
-kaggle website -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
+source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
 ## Shopping_trends 
 
@@ -53,7 +53,7 @@ kaggle website -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames
 
 file -> [SQL/shopping_trends.sql](SQL/shopping_trends.sql)
 
-kaggle website -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
+source -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
 
 # Machine Learning 
 
@@ -63,6 +63,8 @@ The algoritms presented are:
 ### Linear Regression 
 
 ## Sleep time prediction 
+file -> [Python/machine_learning/sleeptime_prediction.ipynb](Python/machine_learning/sleeptime_prediction.ipynb)
+source -> [https://www.kaggle.com/datasets/govindaramsriram/sleep-time-prediction](https://www.kaggle.com/datasets/govindaramsriram/sleep-time-prediction)
 
 
 
