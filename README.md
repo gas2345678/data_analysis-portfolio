@@ -55,6 +55,17 @@ file -> [SQL/shopping_trends.sql](SQL/shopping_trends.sql)
 
 kaggle website -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
 
+# Machine Learning 
+This section contains all projects related to machine learning.
+The algoritms presented are:
+### Clustering 
+### Decision Tree
+### Linear Regression 
+
+## Sleep time prediction 
+This project presents a linear regression to predict the neccessary time to sleep based on certain parameters provided by us.
+
+
 
  
   
