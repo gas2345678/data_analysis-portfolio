@@ -11,31 +11,10 @@ Plotly to bring a better customization to certain parameters.
 
  # Data and Visualizations
  ## Python 
- ## Mobile user behavior
- This dataset shows information about mobile users characteristics like age, time on screen, operating system etc.
  
- file -> [Python/data_analysis_visualizations/mobile_users-behaviours.ipynb](Python/data_analysis_visualizations/mobile_users-behaviours.ipynb)
-
- source -> [https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
-
- ## Penguins
-  
  
- file -> [Python/data_analysis_visualizations/penguins.ipynb](Python/data_analysis_visualizations/penguins.ipynb)
- ## Titanic 
-  
- 
- file -> [Python/data_analysis_visualizations/titanic.ipynb](Python/data_analysis_visualizations/titanic.ipynb)
- ## Muhammad Ali career
 
 
-file -> [Python/data_analysis_visualizations/muhammad.ipynb](Python/data_analysis_visualizations/muhammad.ipynb)
-
-source -> [https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats](https://www.kaggle.com/datasets/gauravarora1091/muhammad-ali-boxing-stats)
-## London houses 
-
-file -> [Python/data_analysis_visualizations/london_houses.ipynb](Python/data_analysis_visualizations/london_houses.ipynb)
-kaggle website -> [https://www.kaggle.com/datasets/oktayrdeki/houses-in-london](https://www.kaggle.com/datasets/oktayrdeki/houses-in-london)
 
  
 ## SQL
