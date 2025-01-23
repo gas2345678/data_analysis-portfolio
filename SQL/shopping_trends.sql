@@ -11,7 +11,7 @@ SELECT Item_Purchased ,Purchase_Amount_USD FROM shopping_trends WHERE Category =
 ORDER BY "Purchase_Amount (USD)" ASC
 --
 
---Select all purchases made by customers between 30 and 50 years old with their respective price and category
+--Select all items purchased made by customers between 30 and 50 years old with their respective price and category
 SELECT Item_Purchased,Category,Purchase_Amount_USD FROM shopping_trends 
 WHERE Age BETWEEN 30 AND 50
 GROUP BY Category 
