@@ -52,9 +52,26 @@ CASE
   
   
   
- WITH ClothesCategory AS (
- SELECT Category WHERE Category == "Clothing" AS clothes FROM shopping_trends)
-SELECT Gender,Age,Item_Purchased,clothes FROM shopping_trends; 
+--Select average quantity of clothes product purchased for each gender
+  SELECT COUNT(Item_Purchased) AS  Total_Clothes_Purchases FROM shopping_trends 
+  WHERE Category =
+  (SELECT Category FROM shopping_trends
+  WHERE Category == "Clothing")
+  GROUP BY Gender
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+ 
 
   
   
