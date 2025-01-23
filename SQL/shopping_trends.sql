@@ -51,7 +51,7 @@ CASE
   ORDER BY Purchase_Amount_USD ASC
   
   
-  
+  --Select Customers who bought clothes
  WITH ClothesCategory AS (
  SELECT Category WHERE Category == "Clothing" AS clothes FROM shopping_trends)
 SELECT Gender,Age,Item_Purchased,clothes FROM shopping_trends; 
