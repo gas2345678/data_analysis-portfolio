@@ -50,11 +50,18 @@ CASE
   GROUP BY Gender 
   ORDER BY Purchase_Amount_USD ASC
   
+  --Select average money spended for each clothes product
+SELECT AVERAGE(Purchase_Amount_USD) AS Average_amount 
+FROM shopping_trends 
+GROUP BY Item_Purchased
+WHERE Category IN (
+  SELECT Category FROM
+  shopping_trends
+  WHERE Category == "Clothes"
+  )
+
+
   
-  --Select Customers who bought clothes
- WITH ClothesCategory AS (
- SELECT Category WHERE Category == "Clothing" AS clothes FROM shopping_trends)
-SELECT Gender,Age,Item_Purchased,clothes FROM shopping_trends; 
 
   
   
