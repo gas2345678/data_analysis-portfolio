@@ -16,11 +16,6 @@ SELECT Item_Purchased,Category,Purchase_Amount_USD FROM shopping_trends
 WHERE Age BETWEEN 30 AND 50
 GROUP BY Category 
 HAVING Discount_Applied == "Yes"
---Selecting money payed by customers grouped by product category with transaction made with credit card.
-
-SELECT SUM(Purchase_Amount_USD) as Total_Amount FROM shopping_trends 
-GROUP BY Category 
-HAVING Payment_Method == "Credit Card"
 
 --Selecting count of "young" customers and the total of money amount they payed grouped by category and ordered by amount
 SELECT COUNT(Age) as young_customers,SUM(Purchase_Amount_USD) as total_purchase from shopping_trends  WHERE Age < 35 AND Age >= 20
@@ -28,7 +23,7 @@ GROUP BY Category
 ORDER BY SUM(Purchase_Amount_USD)
 
 
---Categoring item stocks based on their quantity available 
+--Categoring item stocks based on their quantity available(fictional) 
 SELECT Item_Purchased,COUNT(Item_Purchased) as quantity_purchased,  
 CASE
   WHEN COUNT(Item_Purchased) >= 160 THEN "Out of stock"
@@ -37,25 +32,49 @@ CASE
   END AS Description
   FROM shopping_trends 
   GROUP BY Item_Purchased
+  
+  --Select Count of items purchased with credit card for each shipping type.
+  SELECT Shipping_Type, COUNT(Item_Purchased) AS Total FROM shopping_trends 
+  GROUP BY Shipping_Type 
+  HAVING Payment_Method = 'Credit Card'
+  
+  
+  SELECT COUNT(Item_Purchased) AS Total_Items, Item_Purchased FROM shopping_trends
+  GROUP BY Item_Purchased
+  HAVING Total_Items > 100
+  
+  
+  
+  --Selects the count of items purchased for each gender
+  SELECT COUNT(Item_Purchased) AS Total_Purchased FROM shopping_trends 
+  GROUP BY Gender 
+  ORDER BY Purchase_Amount_USD ASC
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+
+  
+  
+  
+  
+  
  
 
 
 
 
-
-
-
---Selecting count of items purchased with discount applied ordered in descending way.
-SELECT COUNT(Item_Purchased) as Total_Items WHERE Discount_Apllied == "Yes"
-
-
---
-
-
-
---
-
---
 
 
 
