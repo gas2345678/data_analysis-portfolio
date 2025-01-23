@@ -1,3 +1,9 @@
+--Shopping Trends 
+--This is a table which contains information about items and their categories,customers's ages etc.
+--Here are some SQL statements to manipulate it.  
+
+
+
 --Selecting all data from shopping_trends table 
 SELECT * FROM shopping_trends
 
