@@ -52,6 +52,13 @@ CASE
   
   
   
+ WITH ClothesCategory AS (
+ SELECT Category WHERE Category == "Clothing" AS clothes FROM shopping_trends)
+SELECT Gender,Age,Item_Purchased,clothes FROM shopping_trends; 
+
+  
+  
+  
   
   
   
