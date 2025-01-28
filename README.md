@@ -11,11 +11,17 @@ Plotly to bring a better customization to certain parameters.
 
  # Data and Visualizations
  ## Python 
- file -> [Python/data_analysis_visualizations/bankchurns.ipynb](Python/data_analysis_visualizations/bankchurns.ipynb)
+ file -> [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
  
  source -> [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+ 
 
- file -> [Python/data_analysis_visualizations/nike_sales_2024.ipynb](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+ file -> [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+
+ 
+ source - [https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024](https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024)
+
+ 
  
 
 
