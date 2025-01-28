@@ -43,6 +43,15 @@ Netflix_titles | [Netflix_titles](SQL/netflix_titles.sql)
 
 
 
+#### Power BI
+
+
+Project | Link
+-----   | -------
+Covid-19 | [Covid_19_pandemic](power_bi/covid-19_analysis.pbix)
+ecommerce_analysis | [Ecommerce_analysis]()
+
+
 
 
 
