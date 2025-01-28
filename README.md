@@ -12,7 +12,7 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
 
- # Data and Visualization
+ # Data analysis and Visualization
 
 
  #### Python 
