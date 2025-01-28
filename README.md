@@ -38,6 +38,7 @@ Project | Link
 ------- | --------
 Shopping trends        | [shopping_trends](SQL/shopping_trends.sql)
 Metacritic_analysis | [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
+Netflix_titles | []()
 
 
 
