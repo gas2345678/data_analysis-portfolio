@@ -20,6 +20,7 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
    ------------- | ----------
    Banckhurns  |  [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
   Nike_sales_2024|   [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+  
 
 
 
@@ -38,7 +39,7 @@ Project | Link
 ------- | --------
 Shopping trends        | [shopping_trends](SQL/shopping_trends.sql)
 Metacritic_analysis | [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
-Netflix_titles | []()
+Netflix_titles | [Netflix_titles](SQL/netflix_titles.sql)
 
 
 
