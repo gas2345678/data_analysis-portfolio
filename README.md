@@ -12,26 +12,18 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
 
- # Data and Visualizations
- ## Python
- ### Bankchurns
- file -> [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
- 
- source -> [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
- 
- 
-### Nike sales 2024
- file -> [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
-
- 
- source - [https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024](https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024)
+ # Data and Visualization
 
 
  #### Python 
    Project     | Link  
    ----------- | -------
    Banckhurns  |  [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
-  Nike_sales_2024|   [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)         
+  Nike_sales_2024|   [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+
+
+
+
  
       
       
@@ -41,12 +33,15 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
  
-## SQL
+#### SQL
+Project | Link
+------- | -----
+
 
 ### metacritic-videogames_critics
 
 
-file -> [videogames_analysis](SQL/videogames_analysis.sql)
+file -> [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
 
 source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
