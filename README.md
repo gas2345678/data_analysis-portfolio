@@ -14,6 +14,8 @@ Plotly to bring a better customization to certain parameters.
  file -> [Python/data_analysis_visualizations/bankchurns.ipynb](Python/data_analysis_visualizations/bankchurns.ipynb)
  
  source -> [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+
+ file -> [Python/data_analysis_visualizations/nike_sales_2024.ipynb](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
  
 
 
