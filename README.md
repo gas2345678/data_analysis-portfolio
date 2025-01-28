@@ -36,7 +36,7 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 #### SQL
 Project | Link
 ------- | --------
-
+        | [shopping_trends](SQL/shopping_trends.sql)
 
 ### metacritic-videogames_critics
 
