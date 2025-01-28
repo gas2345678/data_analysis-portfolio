@@ -32,7 +32,7 @@ Plotly to bring a better customization to certain parameters.
 ## metacritic-videogames_critics
 
 
-file -> [SQL/videogames_analysis.sql](SQL/videogames_analysis.sql)
+file -> [videogames_analysis](SQL/videogames_analysis.sql)
 
 source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
@@ -40,7 +40,7 @@ source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](h
 
 
 
-file -> [SQL/shopping_trends.sql](SQL/shopping_trends.sql)
+file -> [shopping_trends](SQL/shopping_trends.sql)
 
 source -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
 
