@@ -1,6 +1,6 @@
 # DATA ANALYSIS
 Greetings!
-Here you will find some of my recent projects of data analysis made with libraries like pandas, numpy and seaborn.
+This repository is dedicated for data analysis projects which help me to expand my career as a data analyst or also a data scientist.
 *These projects are based on datasets of real data from the web.
 Tools used: Pandas, Seaborn, Plotly
 Some of the visualizations are made with seaborn, while the rest of them are made with
