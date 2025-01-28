@@ -37,11 +37,12 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 Project | Link
 ------- | --------
 Shopping trends        | [shopping_trends](SQL/shopping_trends.sql)
+Metacritic_analysis | [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
 
 ### metacritic-videogames_critics
 
 
-file -> [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
+file -> [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
 
 source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
