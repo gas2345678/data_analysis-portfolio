@@ -26,6 +26,15 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
  
  source - [https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024](https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024)
 
+
+ #### Python 
+   Project     | Link  
+   ----------- | -------
+   Banckhurns  | [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+  Nike_sales_2024|   [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)         
+ 
+      
+      
  
  
 
