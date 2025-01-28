@@ -39,20 +39,7 @@ Project | Link
 Shopping trends        | [shopping_trends](SQL/shopping_trends.sql)
 Metacritic_analysis | [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
 
-### metacritic-videogames_critics
 
-
-file -> [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
-
-source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
-
-### Shopping_trends 
-
-
-
-file -> [shopping_trends](SQL/shopping_trends.sql)
-
-source -> [https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
 
 
 
