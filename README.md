@@ -31,14 +31,14 @@ Plotly to bring a better customization to certain parameters.
  
 ## SQL
 
-## metacritic-videogames_critics
+### metacritic-videogames_critics
 
 
 file -> [videogames_analysis](SQL/videogames_analysis.sql)
 
 source -> [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data](https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data)
 
-## Shopping_trends 
+### Shopping_trends 
 
 
 
