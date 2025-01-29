@@ -2,7 +2,10 @@
 Greetings!
 This repository is dedicated for data analysis projects which help me to expand my career as a data analyst or also a data scientist.
 
-Tools used: SQL, Python(Pandas,Seaborn)
+Tools used: 
+- SQL
+- Python
+- Power BI
 
 Techniques used: EDA(exploratory data analysis), grouping, aggregation and visualization.
 
