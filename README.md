@@ -71,7 +71,10 @@ This project focus consists on an analysis of ecommerce results in the UK for on
 
 ### Bajali Fast Foods 
 
-This project analyzes different spanish restaurants and their performance in terms of sales
+This project analyzes different spanish restaurants and their performance in terms of sales,grouping them for each type of food and transaction type.
+
+
+![Fast Food](img/fast_food.jpg)
 
 
 
