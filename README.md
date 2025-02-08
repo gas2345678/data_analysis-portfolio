@@ -74,7 +74,7 @@ This project focus consists on an analysis of ecommerce results in the UK for on
 This project analyzes different spanish restaurants and their performance in terms of sales,grouping them for each type of food and transaction type.
 
 
-![Fast Food](img/fast_food.jpg)
+![Fast Food](img/Best_fast_food.webp)
 
 
 
