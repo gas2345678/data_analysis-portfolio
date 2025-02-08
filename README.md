@@ -63,8 +63,8 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 ### Ecommerce analysis 
 
 This project focus consists on an analysis of ecommerce results in the UK for one year.Calculating measures of each country to discover the total amount of sales and profits for all of them, we build visualizations which help us gain insights about the performance of different english business and their variations across time.
-![ecommerce](![dataset-cover](https://github.com/user-attachments/assets/bb797ce0-304d-4aef-ac0b-f742d3a82ed7)
-)
+![ecommerce](https://storage.googleapis.com/kaggle-datasets-images/1927218/3170169/7db5bf21ddb80003a54f15df3ac83968/dataset-cover.jpg?t=2022-02-11-09-22-33)
+
 
 
 
