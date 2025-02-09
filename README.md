@@ -26,12 +26,6 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
 
-  ### Bank churns 
-
-  Analysis all the customers retention from the american banks, taking aspects like their state, total expenses for both gender to discover the possible cause of leaving the service.
-
-  ![Bankchurns](img/shoppings.webp)
- 
 
 
 
@@ -61,6 +55,18 @@ Project | Link
 -----   | -------
 ecommerce_analysis | [Ecommerce_analysis](power_bi/ecommerce_transactions.pbix)
 Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
+
+
+
+## Python 
+
+
+  ### Bank churns 
+
+  Analysis all the customers retention from the american banks, taking aspects like their state, total expenses for both gender to discover the possible cause of leaving the service.
+
+  ![Bankchurns](img/shoppings.webp)
+ 
 
 
 
