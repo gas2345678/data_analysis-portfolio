@@ -93,6 +93,10 @@ plattform.
 
 ----------------------------------------------------------------------------------
 
+### Netflix_titles 
+
+Netflix has a big catalogue of tv-series and movies for all public.This project make an enphasis on different groups of titles and their possible recognizment based on genre, director involved or the story they told to the public.
+
 
 
 
