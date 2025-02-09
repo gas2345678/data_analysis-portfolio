@@ -27,6 +27,17 @@ AND listed_in == "Anime Series"
 
 
 
+--Select all american series with a big number of seasons
+
+SELECT title,date_added FROM netflix_titles WHERE type="TV Show" AND duration ="7 Seasons" AND country= "United States"
+ORDER BY release_year ASC
+
+
+
+
+
+
+
 
 
 
