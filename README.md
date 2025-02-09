@@ -63,6 +63,26 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 Analysis of different trends registered in a determined season, creating grouping queries based on age, product category or season to differentiate the distribution of products and the preferences of certain customers.
 ![Shopping trends](img/shoppings.webp)
 
+---------------------------------------------------------------------------------
+
+
+
+
+
+
+### Metacritic_analysis 
+
+Analysis of different critics made by the company "Metacritic" of different videogames of different plattforms.This projects contains different queries like filters for the games with the best scores or the count of games registered for each
+plattform.
+
+![Metacritic_games](img/videogames.jpg)
+
+----------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
@@ -74,6 +94,9 @@ Analysis of different trends registered in a determined season, creating groupin
 This project focus on an analysis of different restaurants from Spain, creating insights about their position in the market and their total sales by each of them.
 
 ![Bajali fast foods](img/Best_fast_food.webp)
+
+---------------------------------------------------------------------------------
+
 
 
 ### Ecommerce transactions 
