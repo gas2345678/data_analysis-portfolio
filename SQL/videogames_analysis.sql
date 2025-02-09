@@ -59,6 +59,16 @@ WHERE  platform IN ("PlayStation4","XboxOne")
 
 
 
+SELECT name,r_date,MAX(score) AS best_score,platform FROM games_data
+WHERE YEAR(r_date) > 2010
+GROUP BY r_date,platform
+HAVING critics > 100
+
+
+
+
+
+
 
 
 
