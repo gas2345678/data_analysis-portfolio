@@ -57,6 +57,15 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
 
 
+## SQL 
+
+### Shopping trends 
+Analysis of different trends registered in a determined season, creating grouping queries based on ages, product categories or season to differentiate the distribution of products and the preferences of certain customers.
+![Shopping trends]()
+
+
+
+
 ## Power BI
 
 
