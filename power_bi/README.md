@@ -10,3 +10,5 @@ This project focus on an analysis of different restaurants from Spain, creating 
 ### Ecommerce transactions 
 
 Deep analysis of the UK ecommerce transactions in the UK.
+
+![Ecommerce](img/ecommerce.jpg)
