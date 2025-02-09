@@ -23,7 +23,15 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
    ------------- | --------
    Banckhurns   |  [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
   Nike_sales_2024 |   [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
-  
+
+
+
+  ### Bank churns 
+
+  Analysis all the customers retention from the american banks, taking aspects like their state, total expenses for both gender to discover the possible cause of leaving the service.
+
+  ![Bankchurns](img/shoppings.webp)
+ 
 
 
 
