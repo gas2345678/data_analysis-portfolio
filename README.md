@@ -65,7 +65,7 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
   Analysis all the customers retention from the american banks, taking aspects like their state, total expenses for both gender to discover the possible cause of leaving the service.
 
-  ![Bankchurns](img/shoppings.webp)
+  ![Bankchurns](img/bankchurns.webp)
  
 
 
