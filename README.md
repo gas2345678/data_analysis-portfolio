@@ -66,12 +66,15 @@ Analysis of different trends registered in a determined season, creating groupin
 
 
 
+
+
 ### Metacritic_analysis 
 
 Analysis of different critics made by the company "Metacritic" of different videogames of different plattforms.This projects contains different queries like filters for the games with the best scores or the count of games registered for each
 plattform.
 
 ![Metacritic_games](img/videogames.jpg)
+
 
 
 
