@@ -63,7 +63,7 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 Analysis of different trends registered in a determined season, creating grouping queries based on age, product category or season to differentiate the distribution of products and the preferences of certain customers.
 ![Shopping trends](img/shoppings.webp)
 
-
+---------------------------------------------------------------------------------
 
 
 
