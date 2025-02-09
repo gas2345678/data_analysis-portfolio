@@ -58,24 +58,6 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
 
 
-## Power BI
-
-### Ecommerce analysis 
-
-This project focus consists on an analysis of ecommerce results in the UK for one year.Calculating measures of each country to discover the total amount of sales and profits for all of them, we build visualizations which help us gain insights about the performance of different english business and their variations across time.
-
-![ecommerce](img/ecommerce.jpg)
-
-
-
-
-### Bajali Fast Foods 
-
-This project analyzes different spanish restaurants and their performance in terms of sales,grouping them for each type of food and transaction type.
-
-
-![Fast Food](img/Best_fast_food.webp)
-
 
 
 
