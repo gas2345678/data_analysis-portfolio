@@ -74,7 +74,9 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
 
 
- Nike has loaded their sales results during 2024.The goal is to retrieve all the information about the total amount of sales from each clothes category to figure out if there is a special preference from Nike's customers and how this can support a big advantage for Nike.
+ Nike has loaded their sales results during 2024.The goal is to retrieve all the information about the total amount of sales from each clothes category to figure out if there is a special preference from Nike's customers and how this can support a big advantage for the company.
+
+![Nike_sales](img/002-nike-logos-swoosh-white.webp)
  
 
 
