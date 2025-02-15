@@ -63,7 +63,7 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
   ### Bank churns 
 
-  Analysis all the customers retention from the american banks, taking aspects like their state, total expenses for both gender to discover the possible cause of leaving the service.
+  A bank manager has retrieved all credit cards customers from their company.The problem to solve is discover the causes of the employees leaving their service and how they can improve their clients retention for the future.
 
   ![Bankchurns](img/bankchurns.webp)
  
