@@ -63,7 +63,8 @@ Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
   ### Bank churns 
 
-  A bank manager has retrieved all credit cards customers from their company.The problem to solve is discover the causes of the employees leaving their service and how they can improve their clients retention for the future.
+  A bank manager has retrieved all credit cards customers from their company.Through an exploratory data analysis, we figure out the possible causes of the employees leaving their service and how they can improve their clients retention for the future.
+  
 
   ![Bankchurns](img/bankchurns.webp)
  
