@@ -23,8 +23,8 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 - [Nike Sales](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
 
 #### SQL 
-- Shopping Trends
-- Metacritic Videogames analysis
+- [Shopping Trends](SQL/netflix_titles.sql)
+- [Metacritic Videogames analysis](SQL/netflix_titles.sql)
 - Netflix Titles
 
 
