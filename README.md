@@ -19,10 +19,20 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
  #### Python 
-   Project     | Link  
-   ------------- | --------
-   Banckhurns   |  [bankchurns](Python/data_analysis_visualizations/bankchurns.ipynb)
-  Nike_sales_2024 |   [nike_sales_2024](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+- Credit Cards Customers
+- Nike Sales
+
+#### SQL 
+- Shopping Trends
+- Metacritic Videogames analysis
+- Netflix Titles
+
+
+
+#### Power BI 
+- Bajali fast foods
+- ecommerce analysis
+  
 
 
 
