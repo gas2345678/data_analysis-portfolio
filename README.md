@@ -7,7 +7,7 @@ Tools used:
 - Python
 - Power BI
 
-Techniques used: EDA(exploratory data analysis), grouping, aggregation and visualization.
+
 
 *These projects are based on datasets of real data from the web.
 
