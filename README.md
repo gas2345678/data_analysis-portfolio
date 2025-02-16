@@ -68,10 +68,28 @@ Techniques:
   - Visualizations
   - Filtering
 
+  <br>
+  <br>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Shopping trends
+
+Goal: Summarize all details about customers grouping them by age, gender and state to discover the relationship between these characteristics and their buying habits and product preferences.
+
+
+Techniques:
+- Grouping
+- Summarize
+- Sorting
+
+<br>
+<br>
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
