@@ -30,8 +30,8 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
 #### Power BI 
-- Bajali fast foods
-- ecommerce analysis
+- [Bajali fast foods](power_bi/Bajali_fast_foods.pbix)
+- [ecommerce analysis](power_bi/ecommerce_transactions.pbix)
   
 
 
