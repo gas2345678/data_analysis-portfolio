@@ -19,8 +19,8 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
  #### Python 
-- Credit Cards Customers
-- [Nike Sales](Python/data_analysis_visualizations/bankchurns.ipynb)
+- [Credit Cards Customers](Python/data_analysis_visualizations/bankchurns.ipynb)
+- [Nike Sales](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
 
 #### SQL 
 - Shopping Trends
