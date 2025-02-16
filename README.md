@@ -24,8 +24,8 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 #### SQL 
 - [Shopping Trends](SQL/netflix_titles.sql)
-- [Metacritic Videogames analysis](SQL/netflix_titles.sql)
-- Netflix Titles
+- [Metacritic Videogames analysis]
+- [Netflix Titles]((SQL/netflix_titles.sql))
 
 
 
