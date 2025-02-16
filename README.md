@@ -48,23 +48,6 @@ Techniques used: EDA(exploratory data analysis), grouping, aggregation and visua
 
 
 
- 
-#### SQL
-Project | Link
-------- | --------
-Shopping trends        | [shopping_trends](SQL/shopping_trends.sql)
-Metacritic_analysis | [metacritic_videogames_analysis](SQL/videogames_analysis.sql)
-Netflix_titles | [Netflix_titles](SQL/netflix_titles.sql)
-
-
-
-#### Power BI
-
-
-Project | Link
------   | -------
-ecommerce_analysis | [Ecommerce_analysis](power_bi/ecommerce_transactions.pbix)
-Bajali_fast_foods | [Bajali_fast_foods](power_bi/Bajali_fast_foods.pbix)
 
 
 
