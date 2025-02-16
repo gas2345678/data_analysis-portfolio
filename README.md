@@ -33,8 +33,9 @@ Tools used:
 - [Bajali fast foods](power_bi/Bajali_fast_foods.pbix)
 - [ecommerce analysis](power_bi/ecommerce_transactions.pbix)
 
-
-
+ 
+<br>
+<br>
 
 
 
