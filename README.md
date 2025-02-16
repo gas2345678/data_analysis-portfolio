@@ -32,7 +32,37 @@ Tools used:
 #### Power BI 
 - [Bajali fast foods](power_bi/Bajali_fast_foods.pbix)
 - [ecommerce analysis](power_bi/ecommerce_transactions.pbix)
-  
+
+
+
+### Credit Cards Customers 
+
+
+Goal: Discover the possible causes of bank customers leaving the service to better understanding their mistakes and improve their customers retention.
+
+
+Techniques:
+- Grouping
+- Visualization
+
+
+
+
+
+
+  ### Nike Sales
+
+
+  Goal: Determine the total number of Nike sales for each region and discover if there is a preferred product category by their customers.
+
+  Techniques:
+  - Grouping
+  - Visualizations
+  - Filtering
+
+
+
+
 
 
 
