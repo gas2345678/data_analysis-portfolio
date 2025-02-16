@@ -58,12 +58,12 @@ Techniques:
 --------------------------------------------------------
 
 
-  ### Nike Sales
+  ### **Nike Sales**
 
 
-  Goal: Determine the total number of Nike sales for each region and discover if there is a preferred product category by their customers.
+  **Goal**: Determine the total number of Nike sales for each region and discover if there is a preferred product category by their customers.
 
-  Techniques:
+  **Techniques**:
   - Grouping
   - Visualizations
   - Filtering
@@ -74,9 +74,9 @@ Techniques:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### <b>Shopping trends
+### **Shopping trends**
 
-Goal: Summarize all details about customers grouping them by age, gender and state to discover the relationship between these characteristics and their buying habits and product preferences.
+**Goal**: Summarize all details about customers grouping them by age, gender and state to discover the relationship between these characteristics and their buying habits and product preferences.
 
 
 Techniques:
