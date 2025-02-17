@@ -62,6 +62,7 @@ Techniques:
 
 
   **Goal**: Determine the total number of Nike sales for each region and discover if there is a preferred product category by their customers.
+  
   This could help the company to set discount seasons for the specified products with the objective of increasing sales.
 
   **Techniques**:
