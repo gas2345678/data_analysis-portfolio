@@ -21,6 +21,7 @@ Tools used:
  #### Python 
 - [Credit Cards Customers](Python/data_analysis_visualizations/bankchurns.ipynb)
 - [Nike Sales](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+- [London Houses]()
 
 #### SQL 
 - [Shopping Trends](SQL/netflix_titles.sql)
