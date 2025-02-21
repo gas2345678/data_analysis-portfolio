@@ -20,7 +20,6 @@ Tools used:
 
  #### Python 
 - [Credit Cards Customers](Python/credit_cards_customers.ipynb)
-
 - [London Houses](Python/london_houses.ipynb)
 
 #### SQL 
