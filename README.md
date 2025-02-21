@@ -80,6 +80,8 @@ Techniques:
 
 ## **London houses**
 **Description**:Information about the properties in London with their respectives details like address, price etc. -> 
+<br>
+<br>
 **Goal**: Analyze the different London properties and discover if there is an important factor that justify their price.
 
 This is a good insight for local people and tourists who want to buy or rent a property in London.
@@ -95,6 +97,8 @@ This is a good insight for local people and tourists who want to buy or rent a p
 
 ## **Shopping trends**
 **Description**:Information about customers registered in USA with details like age, gender, marital status etc. -> 
+<br>
+<br>
 **Goal**: Summarize all details about customers grouping them by age, gender and state to discover the relationship between these characteristics and their buying habits and product preferences.
 
 This information can be important for shops who want to increase their sales by segmentating their market for specific customers.
@@ -115,7 +119,8 @@ This information can be important for shops who want to increase their sales by 
 
 ## **Metacritic analysis**
 **Description**:Descriptive analysis about all the videogames review by Metacritic: a company who reviews videogames for all plattforms like PC, Playstation4 etc. -> 
-
+<br>
+<br>
 **Goal**:Focusing on the videogames with the best critics to be informed about the possible profits of their creators and the influence they generated over the this century and the previous one.
 
 **Techniques**:
@@ -130,6 +135,8 @@ This information can be important for shops who want to increase their sales by 
 
 ## **Netflix titles**
 **Description**: Information about the different netflix titles either shows or movies with their respectives casting, duration or seasons count etc. -> 
+<br>
+<br>
 
 **Goal**: Discover the most popular netflix titles to discover if there is a preffered gender or people tend to enjoy these titles because of the actor involved
 
@@ -142,6 +149,13 @@ This information can be important for shops who want to increase their sales by 
 <br>
 <br>
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+
+## **Bajali Fast Foods
+
+**Description**: Information about the different restaurants in Spain with their price, type of food etc. -> 
+
+**Goal**: Discove
 
 
 
