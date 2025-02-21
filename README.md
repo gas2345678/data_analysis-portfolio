@@ -128,7 +128,7 @@ This information can be important for shops who want to increase their sales by 
 <br>
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-## **Netflix titles**
+### **Netflix titles**
 **Description**: Information about the different netflix titles either shows or movies with their respectives casting, duration or seasons count etc. -> 
 
 **Goal**: Discover the most popular netflix titles to discover if there is a preffered gender or people tend to enjoy these titles because of the actor involved
