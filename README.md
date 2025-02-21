@@ -151,11 +151,16 @@ This information can be important for shops who want to increase their sales by 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
-## **Bajali Fast Foods
+## **Bajali Fast Foods**
 
 **Description**: Information about the different restaurants in Spain with their price, type of food etc. -> 
 
-**Goal**: Discove
+**Goal**: Create a report about the different results retrieved by the different dishes and the profits.
+
+**Techniques**:
+- Dashboard
+- Filtering
+- Counting
 
 
 
