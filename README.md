@@ -114,9 +114,11 @@ This information can be important for shops who want to increase their sales by 
 - Sorting
 - Subqueries
 
+<br>
+<br>
 
-<br>
-<br>
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Netflix titles**
