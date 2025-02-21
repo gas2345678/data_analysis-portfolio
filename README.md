@@ -119,9 +119,9 @@ This information can be important for shops who want to increase their sales by 
 **Goal**:Focusing on the videogames with the best critics to be informed about the possible profits of their creators and the influence they generated over the this century and the previous one.
 
 **Techniques**:
--Grouping
--Sorting
--Subqueries
+- Grouping
+- Sorting
+- Subqueries
 
 
 <br>
@@ -134,10 +134,10 @@ This information can be important for shops who want to increase their sales by 
 **Goal**: Discover the most popular netflix titles to discover if there is a preffered gender or people tend to enjoy these titles because of the actor involved
 
 **Techniques**:
--Grouping
--Sorting
--Counting
--Subqueries
+- Grouping
+- Sorting
+- Counting
+- Subqueries
 
 <br>
 <br>
