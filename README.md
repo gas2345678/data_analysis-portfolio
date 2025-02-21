@@ -149,6 +149,14 @@ This information can be important for shops who want to increase their sales by 
 - Counting
 
 
+<br>
+<br>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## **Ecommerce analysis**
 
 **Description**: Information about all the ecommerce transactions retrieved from UK retailers from 2010 and 2011, containing details like quantities, prices, profits generated etc -> [https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
