@@ -20,7 +20,7 @@ Tools used:
 
  #### Python 
 - [Credit Cards Customers](Python/credit_cards_customers.ipynb)
-- [Nike Sales](Python/data_analysis_visualizations/nike_sales_2024.ipynb)
+- [Nike Sales](Python/nike_sales_2024.ipynb)
 - [London Houses](Python/london_houses.ipynb)
 
 #### SQL 
