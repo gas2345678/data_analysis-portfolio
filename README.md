@@ -31,7 +31,7 @@ Tools used:
 
 
 #### Power BI 
-- [Bajali fast foods](power_bi/Bajali_fast_foods.pbix)
+- [Balaji fast foods](power_bi/Bajali_fast_foods.pbix)
 - [ecommerce analysis](power_bi/ecommerce_transactions.pbix)
 
  
@@ -151,7 +151,7 @@ This information can be important for shops who want to increase their sales by 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
-## **Bajali Fast Foods**
+## **Balaji Fast Foods**
 
 **Description**: Information about the different restaurants in Spain with their price, type of food etc. -> 
 
