@@ -20,7 +20,7 @@ Tools used:
 
  #### Python 
 - [Credit Cards Customers](Python/credit_cards_customers.ipynb)
-- [Nike Sales](Python/nike_sales_2024.ipynb)
+
 - [London Houses](Python/london_houses.ipynb)
 
 #### SQL 
@@ -63,23 +63,6 @@ Goal: Discover the possible causes of bank customers leaving the service to bett
 --------------------------------------------------------
 
 
-  ## **Nike Sales**
-
-
-  **Goal**: Determine the total number of Nike sales for each region and discover if there is a preferred product category by their customers.
-  
-  This could help the company to set discount seasons for the specified products with the objective of increasing sales.
-
-  **Techniques**:
-  - Grouping
-  - Visualizations
-  - Filtering
-
-  <br>
-  <br>
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## **London houses**
