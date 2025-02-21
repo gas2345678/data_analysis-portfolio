@@ -41,7 +41,11 @@ Tools used:
 
 -----------------------------------------------------------
 
-## Credit Cards Customers 
+## **Credit Cards Customers**
+
+**Description**:Information about a bank's customers with details like age, marital status, educational level etc -> [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+<br>
+<br>
 
 
 Goal: Discover the possible causes of bank customers leaving the service to better understanding their mistakes and improve their customers retention.
