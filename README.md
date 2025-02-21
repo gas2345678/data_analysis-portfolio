@@ -41,7 +41,7 @@ Tools used:
 
 -----------------------------------------------------------
 
-### Credit Cards Customers 
+## Credit Cards Customers 
 
 
 Goal: Discover the possible causes of bank customers leaving the service to better understanding their mistakes and improve their customers retention.
@@ -59,7 +59,7 @@ Techniques:
 --------------------------------------------------------
 
 
-  ### **Nike Sales**
+  ## **Nike Sales**
 
 
   **Goal**: Determine the total number of Nike sales for each region and discover if there is a preferred product category by their customers.
@@ -78,7 +78,7 @@ Techniques:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### **London houses**
+## **London houses**
 **Description**:Information about the properties in London with their respectives details like address, price etc. -> 
 **Goal**: Analyze the different London properties and discover if there is an important factor that justify their price.
 
@@ -93,7 +93,7 @@ This is a good insight for local people and tourists who want to buy or rent a p
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-### **Shopping trends**
+## **Shopping trends**
 **Description**:Information about customers registered in USA with details like age, gender, marital status etc. -> 
 **Goal**: Summarize all details about customers grouping them by age, gender and state to discover the relationship between these characteristics and their buying habits and product preferences.
 
@@ -113,7 +113,7 @@ This information can be important for shops who want to increase their sales by 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### **Metacritic analysis**
+## **Metacritic analysis**
 **Description**:Descriptive analysis about all the videogames review by Metacritic: a company who reviews videogames for all plattforms like PC, Playstation4 etc. -> 
 
 **Goal**:Focusing on the videogames with the best critics to be informed about the possible profits of their creators and the influence they generated over the this century and the previous one.
@@ -128,7 +128,7 @@ This information can be important for shops who want to increase their sales by 
 <br>
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-### **Netflix titles**
+## **Netflix titles**
 **Description**: Information about the different netflix titles either shows or movies with their respectives casting, duration or seasons count etc. -> 
 
 **Goal**: Discover the most popular netflix titles to discover if there is a preffered gender or people tend to enjoy these titles because of the actor involved
