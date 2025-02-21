@@ -51,7 +51,7 @@ Tools used:
 Goal: Discover the possible causes of bank customers leaving the service to better understanding their mistakes and improve their customers retention.
 
 
-Techniques:
+**Techniques:**
 - Grouping
 - Visualization
 
