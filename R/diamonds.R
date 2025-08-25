@@ -38,3 +38,5 @@ bar_cut_diamonds = ggplot(data = diamonds,aes(x=cut)) +
 # Now, let's visualize it 
 View(bar_cut_diamonds)
 
+
+
