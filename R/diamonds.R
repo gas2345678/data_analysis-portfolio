@@ -1,4 +1,5 @@
 # Let's use the default diamonds dataset to perform an exploratory analysis
+#[The visualizations can be found in the plots folder]
 
 # we import the necessary libraries
 
@@ -30,11 +31,15 @@ best_diamonds = diamonds %>% filter(cut == "Ideal")
 ### Suppose we want to visualize all diamonds grouped by cut
 # Then we will use a barplot to visualize all quantities.
 
-
-bar_cut_diamonds = ggplot(data = diamonds,aes(x=cut)) + 
+ggplot(data = diamonds,aes(x=cut)) + 
   geom_bar() +
   labs(title="Diamonds count grouped by cut")
-
 # Now, let's visualize it 
-View(bar_cut_diamonds)
+
+
+
+
+
+
+
 
