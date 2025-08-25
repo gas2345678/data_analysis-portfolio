@@ -6,6 +6,7 @@ Tools used:
 - SQL
 - Python
 - Power BI
+- R
   
 
 
