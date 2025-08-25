@@ -38,7 +38,20 @@ ggplot(data = diamonds,aes(x=cut)) +
 
 
 
+View(diamonds)
 
+
+
+#In some cases, we want to find if there is a correlation between 2 variables.
+#For this, we will use a pointplot to discover 
+# the influence of depth on the final price of diamonds
+
+ggplot(data=diamonds,aes(x=price,y=depth)) + 
+  geom_point() + 
+  labs(title="Relationship between price and depth")
+
+# As we can see, the graphic seems to remain constant over the values.
+# This means there is no correlation between the price and the depth of diamonds
 
 
 
