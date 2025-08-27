@@ -82,6 +82,24 @@ This is a good insight for local people and tourists who want to buy or rent a p
 <br>
 <br>
 
+
+
+## Uber analytics
+
+**Description** : Information about all the ride_sharing data performed by Uber vehicles during 2024 -> [https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
+
+**Goal**: Create a general idea of the kind of vehicles in performance and the operations made with clients and payments methods.This analysis can be useful to companies who want to discover their assets`s moves and how these can influence in their business.
+
+
+**Techniques**:
+-Grouping
+-Filtering
+-Visualization
+<br>
+<br>
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Shopping trends**
@@ -184,11 +202,7 @@ This information can be important for shops who want to increase their sales by 
 
 
 
-## Uber analytics
 
-**Description** : Information about all the ride_sharing data performed by Uber vehicles during 2024 -> [https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
-
-**Goal**: Create a general idea of the kind of vehicles in performance and the operations made with clients and payments methods.This analysis can be useful to companies who want to discover their assets`s moves and how these can influence in their business.
 
 
 
