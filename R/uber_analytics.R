@@ -10,7 +10,6 @@ library(tidyverse)
 #We import the uber dataframe
 
 uber_analytics <- read.csv("C:/Users/PC/Downloads/uber_analytics.csv")
-View(uber_analytics)
 
 
 #Number of columns
@@ -73,7 +72,7 @@ ggplot(data=grouped_payments,aes(x=1,y=percent,fill=Payment.Method)) +
 
 ### Want to see the number of completed tracks
 completed_tracks = uber_analytics %>% filter(Booking.Status =="Completed")
-View(completed_tracks)
+
 
 #Total number of these completed tracks
 count(completed_tracks)
@@ -85,13 +84,17 @@ count(completed_tracks)
 
 #We define it with the next variable
 
-bikes_track = uber_analytics %>% filter(Vehicle.Type == "Bike" && Drop.Location == "Yamuna Bank")
+bikes_track = uber_analytics %>% filter(Vehicle.Type == "Bike" & Drop.Location == "Yamuna Bank")
 
-#View the graph
-View(bikes_track)
 
 #Get the average number of these tracks
-mean(bikes_track)
+bikes_track
+
+
+
+
+
+
 
 
 
