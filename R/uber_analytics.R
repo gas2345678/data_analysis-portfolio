@@ -13,6 +13,35 @@ library(ggplot2)
 uber_analytics = read.csv("C:/Users/PC/Downloads/uber_analytics.csv")
 View(uber_analytics)
 
+#Worst rated uber driver
+
+
+min_rating <- min(uber_analytics$Driver.Ratings,rm.na=TRUE)
+min_rating
+
+# 1
+
+
+
+
+# Numbers of ubers vehicles grouped by vehicle type.
+
+
+vehicles_bar = ggplot(data=uber_analytics,aes(x=Vehicle.Type)) +
+  geom_bar() + labs(title="Uber vehicles registered")
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Want to see the number of completed tracks
@@ -29,6 +58,9 @@ View(completed_drived)
 bikes_drived = uber_analytics %>% filter(Vehicle.Type == "Bike" && Drop.Location == "Yamuna Bank")
 
 View(bikes_drived)
+
+
+
 
 
 
