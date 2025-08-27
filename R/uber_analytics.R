@@ -10,6 +10,7 @@ library(tidyverse)
 #We import the uber dataframe
 
 uber_analytics <- read.csv("C:/Users/PC/Downloads/uber_analytics.csv")
+View(uber_analytics)
 
 
 #Number of columns
@@ -35,11 +36,11 @@ min_rating
 
 # Numbers of ubers vehicles grouped by vehicle type.
 
+uber_analytics %>% ggplot(data=uber_analytics,aes(x=Vehicle.Type)) +
+  geom_histogram(bins=40,fill="steelblue")
 
-ggplot(data=uber_analytics,aes(x=Vehicle.Type)) +
-  geom_bar() + labs(title="Uber vehicles registered")
 
-
+#Payment methods overview
 
 payment_methods = uber_analytics %>% select(Payment.Method)
 
@@ -89,6 +90,13 @@ bikes_track = uber_analytics %>% filter(Vehicle.Type == "Bike" & Drop.Location =
 
 #Get the average number of these tracks
 bikes_track
+
+
+
+
+
+
+
 
 
 
