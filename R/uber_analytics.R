@@ -45,16 +45,6 @@ ggplot(data=uber_analytics,aes(x=Vehicle.Type)) +
 
 
 
-
-
-
-
-
-
-
-
-
-
 ### Want to see the number of completed tracks
 completed_drived = uber_analytics %>% filter(Booking.Status =="Completed")
 View(completed_drived)
