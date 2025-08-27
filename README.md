@@ -183,14 +183,15 @@ This information can be important for shops who want to increase their sales by 
 
 ## Diamonds analysis
 
-**Description**: Dataframe which contains information about diamonds and their characteristics like depth, price or cut.**This is one of the default R datasets**
+**Description**: Dataframe which contains information about diamonds and their characteristics like depth, price or cut.
+**This is one of the default R datasets**
 
 **Goal**: Perform certain statistics operations to find the mean,mode or standard deviation of certain variables and visualize it.
 
 
 ## Uber analytics
 
-**Description** : Information about all the ride_sharing data performed by Uber vehicles during 2024.
+**Description** : Information about all the ride_sharing data performed by Uber vehicles during 2024 -> [https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
 
 **Goal**: Create a general idea of the kind of vehicles in performance and the operations made with clients and payments methods.This analysis can be useful to companies who want to discover their assets`s moves and how these can influence in their business.
 
