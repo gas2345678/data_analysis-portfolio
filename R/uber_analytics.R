@@ -12,11 +12,13 @@ library(tidyr)
 uber_analytics <- read.csv("C:/Users/PC/Downloads/uber_analytics.csv")
 View(uber_analytics)
 
-# Drop null values for better reading
+
+#Number of columns
+ncol(uber_analytics)
 
 
-uber_analytics %>% drop_na()
-uber_analytics
+#Number of rows
+nrow(uber_analytics)
 
 
 
@@ -30,6 +32,10 @@ min_rating <- min(uber_analytics$Driver.Ratings,rm.na=TRUE)
 min_rating
 
 # 1
+
+
+
+
 
 
 
@@ -58,6 +64,10 @@ ggplot(data=uber_analytics,aes(x=Payment.Method,fill="payment method")) +
 ### Want to see the number of completed tracks
 completed_drived = uber_analytics %>% filter(Booking.Status =="Completed")
 View(completed_drived)
+
+
+#Total number of these completed tracks
+count(completed_drived)
 
 
 
