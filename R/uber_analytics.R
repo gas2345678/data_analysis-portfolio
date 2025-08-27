@@ -34,11 +34,21 @@ min_rating
 
 
 
+
+
+
 # Numbers of ubers vehicles grouped by vehicle type.
 
 
 ggplot(data=uber_analytics,aes(x=Vehicle.Type)) +
   geom_bar() + labs(title="Uber vehicles registered")
+
+
+
+payment_methods = uber_analytics %>% select(Payment.Method)
+
+ggplot(data=uber_analytics,aes(x=Payment.Method,fill="payment method")) +
+  geom_col() 
 
 
 
