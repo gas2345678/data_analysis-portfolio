@@ -23,6 +23,7 @@ Tools used:
  #### Python 
 - [Credit Cards Customers](Python/credit_cards_customers.ipynb)
 - [London Houses](Python/london_houses.ipynb)
+- [Uber analytics](Python/uber_analytics.ipynb)
 
 #### SQL 
 - [Shopping Trends](SQL/netflix_titles.sql)
