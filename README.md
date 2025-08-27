@@ -124,7 +124,7 @@ This information can be important for shops who want to increase their sales by 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Netflix titles**
-**Description**: Information about the different netflix titles either shows or movies with their respectives casting, duration or seasons count etc. -> 
+**Description**: Information about the different netflix titles either shows or movies with their respectives casting, duration or seasons count etc. -> [https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 <br>
 <br>
 
