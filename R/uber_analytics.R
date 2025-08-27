@@ -3,7 +3,7 @@
 
 library(dplyr)
 library(ggplot2)
-library(tidyr)
+library(tidyverse)
 
 
 
@@ -31,15 +31,6 @@ nrow(uber_analytics)
 min_rating <- min(uber_analytics$Driver.Ratings,rm.na=TRUE)
 min_rating
 
-# 1
-
-
-
-
-
-
-
-
 
 
 
@@ -53,21 +44,39 @@ ggplot(data=uber_analytics,aes(x=Vehicle.Type)) +
 
 payment_methods = uber_analytics %>% select(Payment.Method)
 
-ggplot(data=uber_analytics,aes(x=Payment.Method,fill="payment method")) +
-  geom_col() 
 
+#Suppose we want the percentage of payment methods made by Uber drivers
+#We perform the following operation
+
+grouped_payments <- uber_analytics %>% 
+  group_by(Payment.Method) %>%
+  count() %>%
+  ungroup() %>%
+  mutate(percent= `n` /sum(`n`)*100)
+  
+
+grouped_payments
+
+
+#If we want to visualize this data, the most appropiate visualization would be a piechart
+
+#We select the payment method column to crate the piechart
+ggplot(data=grouped_payments,aes(x=1,y=percent,fill=Payment.Method)) +
+  geom_bar(stat="identity") +
+  geom_text(aes(label=paste0(round(percent,1),"%")),
+  position = position_stack(vjust=.5)) +
+  coord_polar(theta="y")
 
 
 
 
 
 ### Want to see the number of completed tracks
-completed_drived = uber_analytics %>% filter(Booking.Status =="Completed")
-View(completed_drived)
-
+completed_tracks = uber_analytics %>% filter(Booking.Status =="Completed")
+View(completed_tracks)
 
 #Total number of these completed tracks
-count(completed_drived)
+count(completed_tracks)
 
 
 
@@ -76,9 +85,17 @@ count(completed_drived)
 
 #We define it with the next variable
 
-bikes_drived = uber_analytics %>% filter(Vehicle.Type == "Bike" && Drop.Location == "Yamuna Bank")
+bikes_track = uber_analytics %>% filter(Vehicle.Type == "Bike" && Drop.Location == "Yamuna Bank")
 
-View(bikes_drived)
+View(bikes_track)
+
+mean(bikes_track)
+
+
+
+
+
+
 
 
 
