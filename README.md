@@ -6,7 +6,7 @@ Tools used:
 - SQL
 - Python
 - Power BI
-- R(low level)
+
   
 
 
@@ -181,12 +181,6 @@ This information can be important for shops who want to increase their sales by 
 
 
 
-## Diamonds analysis
-
-**Description**: Dataframe which contains information about diamonds and their characteristics like depth, price or cut.
-**This is one of the default R datasets**
-
-**Goal**: Perform certain statistics operations to find the mean,mode or standard deviation of certain variables and visualize it.
 
 
 ## Uber analytics
