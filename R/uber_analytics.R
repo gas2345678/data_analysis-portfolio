@@ -87,8 +87,10 @@ count(completed_tracks)
 
 bikes_track = uber_analytics %>% filter(Vehicle.Type == "Bike" && Drop.Location == "Yamuna Bank")
 
+#View the graph
 View(bikes_track)
 
+#Get the average number of these tracks
 mean(bikes_track)
 
 
