@@ -23,5 +23,19 @@ WITH fit_powerlifters AS (
 Select Name,Sex from openpowerlifting WHERE BodyweightKg BETWEEN 70 AND 90
 )
 
---This will select all from the table expression declared
+--This will select all from the table expression declared before
 SELECT * FROM fit_powerlifters;
+
+
+
+--Another CTE with the "meets" table which all the encounters in the USA
+WITH usa_meetings AS (
+SELECT * FROM meets WHERE MeetCountry = "USA"
+)
+
+--From the previous expression, select all the encounters which were made in El Paso town.
+SELECT MeetName FROM usa_meetings WHERE MeetTown = "El Paso"
+
+
+
+
