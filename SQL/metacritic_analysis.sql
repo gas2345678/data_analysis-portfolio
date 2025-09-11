@@ -59,50 +59,16 @@ WHERE  platform IN ("PlayStation4","XboxOne")
 
 
 
+--Select action games and their respective genre.
+--If they don´t have info about their player mode, then return "no info"
 
---Select the titles which were released on 2010, grouped by data and platform and having more than 100 critics
-
-SELECT name,r_date,MAX(score) AS best_score,platform FROM games_data
-WHERE YEAR(r_date) > 2010
-GROUP BY r_date,platform
-HAVING critics > 100
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+SELECT name, 
+CASE
+WHEN players =="" OR players == "No info" THEN "Not found"
+END AS players
+from games_data
+WHERE users = (
+SELECT users FROM games_data WHERE genre="Action,Fighting,3D")
 
 
 
