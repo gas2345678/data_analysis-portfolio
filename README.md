@@ -44,6 +44,8 @@ Tools used:
 
 -----------------------------------------------------------
 
+#Python
+
 ## **Credit Cards Customers**
 
 **Description**:Information about a bank's customers with details like age, marital status, educational level etc -> [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
@@ -102,6 +104,8 @@ This is a good insight for local people and tourists who want to buy or rent a p
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+#SQL
 
 ## **Shopping trends**
 **Description**:Information about customers registered in USA with details like age, gender, marital status etc. -> [https://www.kaggle.com/datasets/tanishqqqq/shopping-trends](https://www.kaggle.com/datasets/tanishqqqq/shopping-trends)
@@ -163,6 +167,8 @@ This information can be important for shops who want to increase their sales by 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+#Power BI
 
 
 ## **Balaji Fast Foods**
