@@ -44,7 +44,7 @@ Tools used:
 
 -----------------------------------------------------------
 
-#Python
+# Python
 
 ## **Credit Cards Customers**
 
@@ -105,7 +105,7 @@ This is a good insight for local people and tourists who want to buy or rent a p
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-#SQL
+# SQL
 
 ## **Shopping trends**
 **Description**:Information about customers registered in USA with details like age, gender, marital status etc. -> [https://www.kaggle.com/datasets/tanishqqqq/shopping-trends](https://www.kaggle.com/datasets/tanishqqqq/shopping-trends)
@@ -168,7 +168,7 @@ This information can be important for shops who want to increase their sales by 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-#Power BI
+# Power BI
 
 
 ## **Balaji Fast Foods**
