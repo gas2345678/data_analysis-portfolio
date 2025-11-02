@@ -1,5 +1,4 @@
 pandas 
 seaborn 
 matplotlib
-polars
-fastexcel
+scikit-learn
